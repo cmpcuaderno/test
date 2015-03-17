@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Gusto kong umuwi.</h1>
+<<<<<<< HEAD
+	<h1>Gusto ko nang umuwi.</h1>
+=======
+	<h1>Erase writings on the board after every use.</h1>
+>>>>>>> AB-2L_Cuaderno
 	<img src="myimage.gif"/>
 	<p>Name: Chloie Marian P. Cuaderno
 	<br>S.N.: 2012-47165
